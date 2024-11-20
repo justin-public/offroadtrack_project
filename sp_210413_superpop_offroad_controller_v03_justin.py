@@ -1,3 +1,9 @@
+# 2024년 11월 20일 포트폴리오용 코드
+# TARGET : Raspberry Pi B3
+# Copyright(c)2021, Epicgram Co.,LTD
+# PROJECT : OFFROADTRACK_PID_CONTROL
+# REVISION : V3.0
+
 #!/usr/bin/env python3.7
 from subprocess import call
 call("sudo pigpiod", shell=True)
